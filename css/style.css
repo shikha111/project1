@@ -1,0 +1,60 @@
+body{
+background: white;
+}
+i{
+	color: #29C2C9;
+}
+li{
+list-style-type: none;
+}
+hr { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 2px;
+  background: #29C2C9;
+  margin-right: 100px;
+} 
+#name{
+	background: #29C2C9;
+	color: white;
+	padding: 10px;
+	border-radius: 5px 5px 5px 5px;  
+
+}
+img{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+#work li{
+	list-style-type: disc;
+}
+.container{
+	border: 1px solid grey;
+	width: 900px;
+}
+.detail{
+	margin-left: 10px;
+	margin-right: 20px;
+}
+.data{
+	margin-left: 50px;
+	
+}
+#skills li{
+	background: #29C2C9;
+	 color: white;
+	  border-radius: 5px 5px 5px 5px;
+	   padding: 8px;
+	    margin-bottom: 3px;
+	       width: 200px;
+}
+#skills h5{
+	color: #29C2C9;
+	margin-left: 40px;
+}
+#Languages h5{
+	color: #29C2C9;
+	margin-left: 40px;
+}
